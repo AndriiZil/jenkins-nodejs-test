@@ -7,3 +7,4 @@
 ```
 
 ## Action activated
+## Sonar test
